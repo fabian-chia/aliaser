@@ -11,3 +11,9 @@ INFORMATION YOU NEED TO KNOW
 
 
 ![Screenshot 2025-01-06 171143](https://github.com/user-attachments/assets/bb3df43d-0212-4d78-8019-7dc7622ec545)
+
+
+
+
+
+![trouble1](https://github.com/user-attachments/assets/80d4e833-8b8d-4be2-9c31-434115bbe27e)
