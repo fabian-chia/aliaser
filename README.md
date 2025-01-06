@@ -5,7 +5,7 @@ INFORMATION YOU NEED TO KNOW
 - the full file path of the script that you want to add as an alias(will make things a lot smoother)
 - it would be good to restart your terminal again after the script has ran
 
-
+![image1](https://github.com/user-attachments/assets/61b9d443-fe91-44ae-ba7e-44e686624496)
 
 
 
