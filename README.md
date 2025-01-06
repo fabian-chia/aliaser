@@ -17,3 +17,7 @@ INFORMATION YOU NEED TO KNOW
 
 
 ![trouble1](https://github.com/user-attachments/assets/80d4e833-8b8d-4be2-9c31-434115bbe27e)
+
+
+
+![trouble2](https://github.com/user-attachments/assets/e054aa13-bdbb-450f-bb05-0f8b0f50e25d)
