@@ -6,11 +6,12 @@ INFORMATION YOU NEED TO KNOW
 - it would be good to restart your terminal again after the script has ran
 
 ![image1](https://github.com/user-attachments/assets/61b9d443-fe91-44ae-ba7e-44e686624496)
-
+- This image shows how the script runs
 
 
 ![Screenshot 2025-01-06 171143](https://github.com/user-attachments/assets/bb3df43d-0212-4d78-8019-7dc7622ec545)
-
+- This image shows the reflection of the zshrc file
+- You may require a restart to see results in your machine
 
 
 
@@ -20,3 +21,4 @@ INFORMATION YOU NEED TO KNOW
 
 
 ![trouble2](https://github.com/user-attachments/assets/e054aa13-bdbb-450f-bb05-0f8b0f50e25d)
+- In the case whereby the file path or the name of alias is typed incorrectly, the script will prompt you to correct your mistake
